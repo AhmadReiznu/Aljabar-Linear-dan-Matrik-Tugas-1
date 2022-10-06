@@ -6,7 +6,7 @@ int main()
     int i, j, baris_matriks, kolom_matriks, matriks_1[10][10], matriks_2[10][10], hasil[10][10];
 
     cout << "=== PENJUMLAHAN MATRIKS ===\n";
-    cout << "Rahmaditya Putri\n";
+    cout << "Reiznu Ahmad Tjandrida\n";
     cout << "21091397018\n";
     cout << "=== PENJUMLAHAN MATRIKS ===\n\n";
 
